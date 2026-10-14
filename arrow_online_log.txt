@@ -1,0 +1,84 @@
+23:00:35 CREATE relay_port 5051 invite_addr 10.30.4.83:505 game v12
+23:00:35 CONNECT 127.0.0.1 5051 create
+23:00:35 EVENT conn_ok  
+23:00:35 EVENT created  SXY3
+23:04:52 CREATE relay_port 5051 invite_addr 10.30.4.83:505 game v12
+23:04:52 CONNECT 127.0.0.1 5051 create
+23:04:52 EVENT conn_ok  
+23:04:52 EVENT created  0IUQ
+23:07:13 CREATE relay_port 5051 invite_addr 10.30.4.83:505 game v12
+23:07:13 CONNECT 127.0.0.1 5051 create
+23:07:13 EVENT conn_ok  
+23:07:13 EVENT created  LA7X
+23:08:55 CREATE relay_port 5051 invite_addr 10.30.4.83:505 game v12
+23:08:55 CONNECT 127.0.0.1 5051 create
+23:08:55 EVENT conn_ok  
+23:08:55 EVENT created  MVDP
+23:09:32 CREATE relay_port 5051 invite_addr 10.30.4.83:505 game v12
+23:09:32 CONNECT 127.0.0.1 5051 create
+23:09:32 EVENT conn_ok  
+23:09:32 EVENT created  MSUJ
+23:12:17 CONNECT 10.30.4.83 5050 join
+23:12:23 EVENT conn_fail timed out 
+23:20:13 CREATE relay_port 5051 invite_addr 10.30.4.83:505 game v12
+23:20:13 CONNECT 127.0.0.1 5051 create
+23:20:13 EVENT conn_ok  
+23:20:13 EVENT created  G0ZK
+23:20:25 CREATE relay_port 5051 invite_addr 10.30.4.83:505 game v12
+23:20:25 CONNECT 127.0.0.1 5051 create
+23:20:25 EVENT conn_ok  
+23:20:25 EVENT created  CACX
+23:25:28 CREATE relay_port 5052 invite_addr 10.30.4.83:505 game v13
+23:25:28 CONNECT 127.0.0.1 5052 create
+23:25:28 EVENT conn_ok  
+23:25:28 EVENT created  JUU8
+23:25:37 FIREWALL rule added
+23:27:12 CONNECT 10.30.4.83 5050 join
+23:27:18 EVENT conn_fail timed out 
+23:29:39 CONNECT 10.30.4.83 5050 join
+23:29:45 EVENT conn_fail timed out 
+23:31:09 CONNECT 10.30.4.83 5050 join
+23:31:19 CREATE relay_port 5052 invite_addr 10.30.4.83:505 game v13
+23:31:19 CONNECT 127.0.0.1 5052 create
+23:31:19 EVENT conn_ok  
+23:31:19 EVENT created  O05W
+23:31:19 FIREWALL rule already exists
+23:31:29 CREATE relay_port 5052 invite_addr 10.30.4.83:505 game v13
+23:31:29 CONNECT 127.0.0.1 5052 create
+23:31:29 EVENT conn_ok  
+23:31:29 EVENT created  VM3M
+23:31:29 FIREWALL rule already exists
+23:33:56 CREATE relay_port 5052 invite_addr 10.30.4.83:505 game v13
+23:33:56 CONNECT 127.0.0.1 5052 create
+23:33:56 EVENT conn_ok  
+23:33:56 EVENT created  PR18
+23:33:57 FIREWALL rule already exists
+23:44:38 CREATE internet room v14
+23:44:38 CONNECT internet 0 create
+23:44:39 MQTT connected broker.emqx.io 1883
+23:44:39 EVENT conn_ok  
+23:44:39 EVENT created  9P58ER
+23:45:44 EVENT peer_joined  
+23:45:50 EVENT msg  
+23:45:52 EVENT msg  
+23:45:53 EVENT msg  
+23:45:54 EVENT msg  
+23:45:55 EVENT msg  
+23:45:56 EVENT msg  
+23:45:57 EVENT msg  
+23:45:58 EVENT msg  
+23:46:00 EVENT msg  
+23:46:01 EVENT msg  
+23:46:02 EVENT msg  
+23:46:03 EVENT msg  
+23:46:05 EVENT msg  
+23:46:06 EVENT msg  
+23:46:08 EVENT msg  
+23:46:09 EVENT msg  
+23:46:10 EVENT msg  
+23:46:11 EVENT msg  
+23:46:12 EVENT msg  
+23:46:13 EVENT msg  
+23:46:14 EVENT msg  
+23:46:21 EVENT msg  
+23:46:36 MQTT read error [WinError 10038] An operation was attempted on something that is not a socket
